@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to AbcBank accounts related production APIs "
   contactDetails:
     name: "Alok Sachan - Product Owner"
     email: "{cipher}045ddb71377066f5491e3602c5de399e014f93a16b91d2edef904e03547b7284976c53552798a578820071b3d3727dd4"
