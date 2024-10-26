@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to ABCBank accounts related local APIs "
+  message: "Welcome to ABCBank accounts related webhooks APIs "
   contactDetails:
     name: "Alok Sachan - Devloper"
     email: "alok.sachan@abcbank.com"
