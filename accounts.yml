@@ -2,13 +2,13 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to ABCBank accounts related local APIs "
   contactDetails:
-    name: "Alok Sachan - DevOps"
+    name: "Alok Sachan - Devloper"
     email: "alok.sachan@abcbank.com"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    - (111) 555-1234
+    - (111) 523-1345
 
 
 
